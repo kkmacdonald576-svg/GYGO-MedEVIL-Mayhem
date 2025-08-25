@@ -92,7 +92,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
@@ -192,11 +192,7 @@
                         "dino": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
                         "chancetodrop": 0.9
                     },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
+                                        {
                         "dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
                         "chancetodrop": 0.9
                     },
@@ -224,6 +220,10 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
                         "chancetodrop": 0.4
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
+                        "chancetodrop": 0.9
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
