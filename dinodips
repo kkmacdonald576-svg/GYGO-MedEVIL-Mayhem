@@ -205,11 +205,15 @@
                         "chancetodrop": 0.9
                     },
                     {
+                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
                         "dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 6
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
@@ -218,15 +222,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
-                        "chancetodrop": 0.4
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
@@ -290,7 +286,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 6
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
