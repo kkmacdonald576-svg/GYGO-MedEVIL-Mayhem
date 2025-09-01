@@ -219,15 +219,15 @@
                 "weekforoptions": [
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.8
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
@@ -235,15 +235,15 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.7
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.8
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
@@ -251,39 +251,39 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.7
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.7
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.7
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.4
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.6
                     }
                 ],
                 "dipstogive": 5
