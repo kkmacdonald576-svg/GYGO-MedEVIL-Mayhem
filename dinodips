@@ -17,8 +17,7 @@
             "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
             "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
-			"/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C"
+	    "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C"
         ],
         "weeksarrays": [
             {
@@ -153,7 +152,7 @@
                         "dino": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
                         "chancetodrop": 0.9
                     },
-                    {
+		    {
                         "dino": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
                         "chancetodrop": 0.9
                     },
@@ -221,6 +220,10 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
                         "chancetodrop": 0.8
+                    },
+		    {
+                        "dino": "/Game/ASA/Dinos/Helicorprion/Helicorprion_Character_BP.Helicorprion_Character_BP_C",
+                        "chancetodrop": 0.7
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
