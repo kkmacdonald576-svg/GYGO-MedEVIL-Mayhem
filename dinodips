@@ -17,6 +17,9 @@
             "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
             "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+	    "'/DragonKingdom'/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1_C",
+	    "'/DragonKingdom'/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T2.K_ZaldrirDragon_Character_BP_T2_C",
+	    "/Game/ASA/Dinos/Helicorprion/Helicorprion_Character_BP.Helicorprion_Character_BP_C",
 	    "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C"
         ],
         "weeksarrays": [
