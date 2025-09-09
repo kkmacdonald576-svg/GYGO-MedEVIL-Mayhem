@@ -311,15 +311,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
@@ -342,32 +334,32 @@
                         "dino": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
                         "chancetodrop": 0.9
                     },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
+                                        {
                         "dino": "/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
                         "dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
                         "chancetodrop": 0.9
                     },
-                    {
-                        "dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+		    {
+                        "dino": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+                        "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 8
+                "dipstogive": 5
             },
             {
                 "weekforoptions": [
@@ -387,6 +379,14 @@
                         "dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
                         "chancetodrop": 0.9
                     },
+		    {
+                        "dino": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+		    {
+                        "dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
                         "chancetodrop": 0.9
@@ -396,19 +396,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
+                        "dino": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
@@ -423,8 +411,20 @@
                         "dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
                         "chancetodrop": 0.9
                     },
+		    {
+                        "dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+		    {
+                        "dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+		    {
+                        "dino": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
@@ -432,7 +432,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 7
+                "dipstogive": 5
             }
         ]
     }
